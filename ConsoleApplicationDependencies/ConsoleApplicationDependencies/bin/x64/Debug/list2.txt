@@ -1,0 +1,757 @@
+Form: File Upload
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+Form: AuthorizationLevel 
+View: AuthorizationLevel - Header View
+SmartObject: Department
+
+View: AuthorizationLevel - Management View
+SmartObject: AuthorizationLevel
+SmartObject: Role
+SmartObject: Role
+
+Form: Procurement2Pay - Status View
+View: Procurement2Pay - Infomation View
+SmartObject: Procurement2Pay
+
+Form: 4 Purchase Order - Detail
+Process: Purchasing\Purchase Order
+View: OLI Header - Purchase Order
+
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Purchase Order Item - Create
+SmartObject: Purchase_Order_Item
+SmartObject: Material
+SmartObject: Purchased_Unit
+
+View: Purchase Order - Create
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: PaymentMethodTable
+SmartObject: PaymentTermTable
+SmartObject: Purchase_Order
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Purchase Order - Toolbar
+
+Form: 8M Purchase Requisition - Final Selection
+Process: Purchasing\Purchase Requisition
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Employee - Employee Information View - Mobile
+SmartObject: Employee
+
+View: OLI Header - Mobile
+
+View: Document Attachment - List View - Mobile
+SmartObject: Document_Attachments
+
+View: Purchase Requisition - Final Vendor Selection - Mobile
+SmartObject: Purchase_Objective
+SmartObject: Purchase_Requisition
+
+View: Purchase Requisition Item - List View - Mobile
+SmartObject: Purchase_Requisition_Item
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: Expense Claim - Craete Form
+Process: Finance\Expense Claim Request
+View: Employee - User Information View
+SmartObject: Employee
+
+View: Expense Claim - Create View
+SmartObject: Expense_Claim
+
+View: Expense Claim Item - Create List View
+SmartObject: Currency
+SmartObject: Expense_Category
+SmartObject: Expense_Claim_Item
+
+Form: 
+View: 
+
+Form: Service Request - Approval Form
+Process: Operations\Service Request
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Employee - User Information View
+SmartObject: Employee
+
+View: Attachment - ReadOnly List View
+SmartObject: Attachment
+
+View: Comment - New Comment
+SmartObject: Comment
+
+View: Service Request - ReadOnly View
+SmartObject: Service_Request
+SmartObject: Service_Group
+SmartObject: Service_Catalog
+
+Form: 2 Goods Received - Approval
+Process: Purchasing\Goods Received
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Goods Received Item - Create List
+SmartObject: Goods_Received_Item
+SmartObject: Purchased_Unit
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Goods Received - ReadOnly
+SmartObject: Goods_Received
+SmartObject: Purchase_Order
+
+View: Comment - New Comment
+SmartObject: Comment
+
+View: OLI Header - Goods Received
+
+Form: 1 Goods Received - Create
+Process: Purchasing\Goods Received
+View: Goods Received - Toolbar
+
+View: Purchase Order Item - Receiving List View
+SmartObject: Purchase_Order_Item
+
+View: Goods Received Item - Create List
+SmartObject: Goods_Received_Item
+SmartObject: Purchased_Unit
+
+View: Goods Received - Create 
+SmartObject: Goods_Received
+SmartObject: Purchase_Order
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: OLI Header - Goods Received
+
+View: Employee - Requestor Information View
+SmartObject: Employee
+
+Form: 
+View: 
+SmartObject: Attachment
+
+Form: 2 Purchase Order - Approval
+Process: Purchasing\Purchase Order
+View: OLI Header - Purchase Order
+
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Purchase Order Item - List View
+SmartObject: Purchase_Order_Item
+
+View: Purchase Order - ReadOnly
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: PaymentMethodTable
+SmartObject: PaymentTermTable
+SmartObject: Purchase_Order
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Employee - Employee Information View
+SmartObject: Employee
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: 8 Purchase Requisition - Final Selection
+Process: Purchasing\Purchase Requisition
+View: Comment - Comment List
+SmartObject: Comment
+
+View: OLI Header
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Employee - Employee Information View
+SmartObject: Employee
+
+View: Purchase Requisition - Final Vendor Selection
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: Purchase_Requisition
+
+View: Purchase Requisition Item - List View
+SmartObject: Purchase_Requisition_Item
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: 3 Purchase Order - Vice President Approval
+Process: Purchasing\Purchase Order
+View: OLI Header - Purchase Order
+
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Purchase Order Item - List View
+SmartObject: Purchase_Order_Item
+
+View: Purchase Order - ReadOnly
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: PaymentMethodTable
+SmartObject: PaymentTermTable
+SmartObject: Purchase_Order
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Employee - Employee Information View
+SmartObject: Employee
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: File List
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+Form: 1 Purchase Requisition - Create
+Process: Purchasing\Purchase Requisition
+View: OLI Header
+
+View: Purchase Requisition Item - Create List View
+SmartObject: Purchase_Requisition_Item
+SmartObject: Purchased_Unit
+
+View: Purchase Requisition - Toolbar
+
+View: Purchase Requisition - Create
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: IO
+SmartObject: Purchase_Requisition
+SmartObject: Project
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Employee - Requestor Information View
+SmartObject: Employee
+
+Form: Service Request - Solution Form
+Process: Operations\Service Request
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Employee - User Information View
+SmartObject: Employee
+
+View: Attachment - ReadOnly List View
+SmartObject: Attachment
+
+View: Service Request - Solution View
+SmartObject: Service_Request
+SmartObject: Service_Group
+SmartObject: Service_Catalog
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: Vendor Selection Form
+Process: K2POCProject\VendorOnboard
+View: VendorTable Item for Purchaser
+SmartObject: PaymentMethodTable
+SmartObject: PaymentTermTable
+SmartObject: VenderTable
+
+View: PurchOrderComment Item
+SmartObject: PurchOrderComment
+
+View: VendorSelectionAttachment Editable List
+SmartObject: UserTable
+SmartObject: UserTable
+SmartObject: VendorSelectionAttachment
+
+Form: 
+Process: K2Project6\Process
+View: Service Catalog - List View
+SmartObject: Service_Catalog
+
+Form: 6 Purchase Requisition - Purchaser Vendor Selection
+Process: Purchasing\Purchase Requisition
+View: Comment - Comment List
+SmartObject: Comment
+
+View: OLI Header
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Employee - Employee Information View
+SmartObject: Employee
+
+View: Purchase Requisition - Vendor Selection
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: Purchase_Requisition
+
+View: Purchase Requisition Item - List View
+SmartObject: Purchase_Requisition_Item
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: Purchase Request Approve
+Process: K2POCProject\Purchase Request
+View: PurchReqComment List
+SmartObject: UserTable
+SmartObject: PurchReqComment
+
+View: PurchReqAttachment List PR Detail
+SmartObject: UserTable
+SmartObject: PurchReqAttachment
+
+View: PurchReqComment Item
+SmartObject: PurchReqComment
+
+View: PurchReqTable PR Detail
+SmartObject [d5fa14b9-dc06-4630-b89c-0ea3a92a9def] could not be found.
+SmartObject: PurchType
+
+View: UserTable Item ReadOnly
+SmartObject: UserTable
+
+View: PurchReqTrans List PR Detail
+SmartObject: ItemTable
+SmartObject: PurchReqTrans
+SmartObject: VenderTable
+
+Form: 3 Purchase Requisition - IT Verify
+Process: Purchasing\Purchase Requisition
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Purchase Requisition Item - Edit List View
+SmartObject: Purchase_Requisition_Item
+
+View: Purchase Requisition - ReadOnly
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: Purchase_Requisition
+
+View: OLI Header
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Employee - Employee Information View
+SmartObject: Employee
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: Purchase Request Select Vendor Approve
+Process: K2POCProject\Purchase Request
+View: PurchReqComment List
+SmartObject: UserTable
+SmartObject: PurchReqComment
+
+View: PurchReqAttachment List PR Detail
+SmartObject: UserTable
+SmartObject: PurchReqAttachment
+
+View: Select Vendor
+SmartObject [d5fa14b9-dc06-4630-b89c-0ea3a92a9def] could not be found.
+
+View: PurchReqComment Item
+SmartObject: PurchReqComment
+
+View: PurchReqTable PR Detail
+SmartObject [d5fa14b9-dc06-4630-b89c-0ea3a92a9def] could not be found.
+SmartObject: PurchType
+
+View: Information Vender 3
+SmartObject [d5fa14b9-dc06-4630-b89c-0ea3a92a9def] could not be found.
+SmartObject: VenderTable
+
+View: UserTable Item ReadOnly
+SmartObject: UserTable
+
+View: Information Vender 2
+SmartObject [d5fa14b9-dc06-4630-b89c-0ea3a92a9def] could not be found.
+SmartObject: VenderTable
+
+View: PurchReqTrans List PR Detail
+SmartObject: ItemTable
+SmartObject: PurchReqTrans
+SmartObject: VenderTable
+
+View: Information Vender 1
+SmartObject [d5fa14b9-dc06-4630-b89c-0ea3a92a9def] could not be found.
+SmartObject: VenderTable
+
+Form: 7 Purchase Requisition - Requestor Vendor Selection
+Process: Purchasing\Purchase Requisition
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Purchase Requisition - Requestor Vendor Selection
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: Purchase_Requisition
+
+View: OLI Header
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Employee - Employee Information View
+SmartObject: Employee
+
+View: Purchase Requisition Item - List View
+SmartObject: Purchase_Requisition_Item
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: 1 Purchase Invoice - Create
+Process: Purchasing\Purchase Invoice
+View: Goods Received Item - List With Price
+SmartObject: Goods_Received_Item
+
+View: Purchase Invoice - Create
+SmartObject: Goods_Received
+SmartObject: Goods_Received
+SmartObject: Purchase_Order
+
+View: OLI Header - Purchase Invoice
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Purchase Invoice - Toolbar
+
+Form: Service Request - Solution ReadOnly Form
+View: Service Request - Solution ReadOnly View
+SmartObject: Service_Request
+SmartObject: Service_Group
+SmartObject: Service_Catalog
+
+View: Employee - User Information View
+SmartObject: Employee
+
+View: Attachment - ReadOnly List View
+SmartObject: Attachment
+
+Form: Purchase Request IT Approve
+Process: K2POCProject\Purchase Request
+View: PurchReqComment List
+SmartObject: UserTable
+SmartObject: PurchReqComment
+
+View: PurchReqAttachment List PR Detail
+SmartObject: UserTable
+SmartObject: PurchReqAttachment
+
+View: PurchReqComment Item
+SmartObject: PurchReqComment
+
+View: PurchReqTable PR Detail
+SmartObject [d5fa14b9-dc06-4630-b89c-0ea3a92a9def] could not be found.
+SmartObject: PurchType
+
+View: UserTable Item ReadOnly
+SmartObject: UserTable
+
+View: PurchReqTrans Editable List For IT
+SmartObject: UnitTable
+SmartObject: UnitTable
+SmartObject: ItemTable
+SmartObject: ItemTable
+SmartObject: PurchReqTrans
+SmartObject: VenderTable
+SmartObject: VenderTable
+
+Form: Project - Management
+View: IO - List View
+SmartObject: IO
+
+View: OLI Header
+
+View: Project - Detail View
+SmartObject: Project
+
+View: Project - List View
+SmartObject: Project
+
+Form: 5 Purchase Requisition - Vendor Submission
+Process: Purchasing\Vendor Selection
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Purchase Requisition - Vendor Submission
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: Purchase_Requisition
+
+View: OLI Header
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Employee - Employee Information View
+SmartObject: Employee
+
+View: Purchase Requisition Item - List View
+SmartObject: Purchase_Requisition_Item
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: Service Request - Request Form
+Process: Operations\Service Request
+View: Employee - Requestor Selection View
+SmartObject: Employee
+SmartObject: Employee
+
+View: Attachment - Create List View
+SmartObject: Attachment
+
+View: Service Request - Create View
+SmartObject: Service_Request
+SmartObject: Service_Group
+SmartObject: Service_Catalog
+
+Form: 1 Purchase Order - Create
+Process: Purchasing\Purchase Order
+View: OLI Header - Purchase Order
+
+View: Purchase Order Item - Create
+SmartObject: Purchase_Order_Item
+SmartObject: Material
+SmartObject: Purchased_Unit
+
+View: Purchase Order - Create
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: PaymentMethodTable
+SmartObject: PaymentTermTable
+SmartObject: Purchase_Order
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Purchase Order - Toolbar
+
+Form: 2 Purchase Invoice - Appoval
+Process: Purchasing\Purchase Invoice
+View: Goods Received Item - List With Price
+SmartObject: Goods_Received_Item
+
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Purchase Invoice - ReadOnly
+SmartObject: Goods_Received
+SmartObject: Goods_Received
+SmartObject: Purchase_Order
+
+View: OLI Header - Purchase Invoice
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: 2 Purchase Requisition - Approval
+Process: Purchasing\Purchase Requisition
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Purchase Requisition - ReadOnly
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: Purchase_Requisition
+
+View: OLI Header
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Employee - Employee Information View
+SmartObject: Employee
+
+View: Purchase Requisition Item - List View
+SmartObject: Purchase_Requisition_Item
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: PurchReq Detail
+Process: K2POCProject\Purchase Orders
+View: PurchReqComment List
+SmartObject: UserTable
+SmartObject: PurchReqComment
+
+View: PurchReqAttachment List PR Detail
+SmartObject: UserTable
+SmartObject: PurchReqAttachment
+
+View: PurchReqTable PR Detail
+SmartObject [d5fa14b9-dc06-4630-b89c-0ea3a92a9def] could not be found.
+SmartObject: PurchType
+
+View: UserTable Item ReadOnly
+SmartObject: UserTable
+
+View: PurchReqTrans List PR Detail
+SmartObject: ItemTable
+SmartObject: PurchReqTrans
+SmartObject: VenderTable
+
+Form: 4 Purchase Requisition - Pricing Table
+Process: Purchasing\Purchase Requisition
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Purchase Requisition - Pricing Table
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: SAPVendorProfile
+SmartObject: SAPVendorProfile
+SmartObject: SAPVendorProfile
+SmartObject: Purchase_Requisition
+
+View: OLI Header
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Employee - Employee Information View
+SmartObject: Employee
+
+View: Purchase Requisition Item - List View
+SmartObject: Purchase_Requisition_Item
+
+View: Document Attachment - Create List View
+SmartObject: Document_Attachments
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: Service Request - Expense Approval Form
+Process: Operations\Service Request
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Employee - User Information View
+SmartObject: Employee
+
+View: Attachment - ReadOnly List View
+SmartObject: Attachment
+
+View: Service Request - Expense Approval View
+SmartObject: Service_Request
+SmartObject: Service_Group
+SmartObject: Service_Catalog
+
+View: Comment - New Comment
+SmartObject: Comment
+
+Form: 9 Purchase Requisition - Detail Ready to be Converted
+Process: Purchasing\Convert Purchase Requisition to Purchase Order
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Purchase Requisition - ReadOnly
+SmartObject: Purchase_Objective
+SmartObject: Currency
+SmartObject: Purchase_Requisition
+
+View: OLI Header
+
+View: Document Attachment - List View
+SmartObject: Document_Attachments
+
+View: Employee - Employee Information View
+SmartObject: Employee
+
+View: Purchase Requisition - Toolbar
+
+View: Purchase Requisition Item - List View
+SmartObject: Purchase_Requisition_Item
+
+Form: Expense Claim - Approval Form
+Process: Finance\Expense Claim Request
+View: Expense Claim Item - ReadOnly List View
+SmartObject: Expense_Claim_Item
+
+View: Employee - User Information View
+SmartObject: Employee
+
+View: Expense Claim - ReadOnly View
+SmartObject: Expense_Claim
+
+Form: Service Request - Feedback Form
+Process: Operations\Service Request
+View: Service Request - Feedback View
+SmartObject: Service_Request
+SmartObject: Service_Group
+SmartObject: Service_Catalog
+
+View: Comment - Comment List
+SmartObject: Comment
+
+View: Employee - User Information View
+SmartObject: Employee
+
+View: Attachment - ReadOnly List View
+SmartObject: Attachment
+
+View: Comment - New Comment
+SmartObject: Comment
+
